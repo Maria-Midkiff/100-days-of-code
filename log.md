@@ -5,7 +5,7 @@
 **Today's Progress**: Publicly committed to doing the 100DaysOfCode Challenge. Posted on Twitter. Did JS practice today. 
 **Thoughts:** I will post here and on twitter each day. 
 
-<-- **Link to work:** [Calculator App](http://www.example.com) -->
+**Link(s) to work**
 
 ### Day 2: August 9, 2023
 
@@ -13,7 +13,7 @@
 
 **Thoughts**: So much to learn. So many great resources out there. It is getting overwhelming. 
 
-<-- **Link(s) to work**: [Calculator App](http://www.example.com) -->
+**Link(s) to work**
 
 
 ### Day 3: August 10, 2023
