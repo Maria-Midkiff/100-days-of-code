@@ -18,9 +18,9 @@
 
 ### Day 3: August 10, 2023
 
-**Today's Progress**: 
+**Today's Progress**: Loops in the JSWay, doing the exercises, Carousel, Parity, Input Validation, Mulitplication Table, Neither Yes nor No, FizzBuzz
 
-**Thoughts** 
+**Thoughts**: I feel like I'm swimming and going nowhere. 
 
 **Link(s) to work**
 
