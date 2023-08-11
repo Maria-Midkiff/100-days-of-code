@@ -24,3 +24,22 @@
 
 **Link(s) to work**
 
+### Day 4: August 11, 2023
+
+**Today's Progress**: Finished FizzBuzz, submitted homework link for Class 15, practiced JS
+
+**Thoughts**: Feel pretty good, as there is a lot to do. 
+
+**Link(s) to work**
+
+### Day 5: August 12, 2023
+
+**Today's Progress**: 
+**Thoughts**:  
+**Link(s) to work**
+
+### Day 6: August 13, 2023
+
+**Today's Progress**: 
+**Thoughts**:  
+**Link(s) to work**
