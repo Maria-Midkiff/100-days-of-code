@@ -35,12 +35,20 @@
 ### Day 5: August 12, 2023
 
 **Today's Progress**: Changed background color to have sounds on each color, uploade to Glitch.
+
 **Thoughts**:  Having glitch problems. The site works from my pc, viewing on chrome. It does not work on the preview screen in Glitch. 
+
 **Link(s) to work**
+
 **Next Actions**: See what is up with Glitch. 
 
 ### Day 6: August 13, 2023
 
-**Today's Progress**: 
-**Thoughts**:  
-**Link(s) to work**
+**Today's Progress**: Forget glitch. I decided to put the homework on git hub since I watched that video alread. Uploaded background-picker, but the sounds weren't working. Had to create an audio folder and put the four audio files in there, then redo that repository. Created two blog posts and published in hashnode. Tweeted them. 
+
+**Thoughts**:  Be mindful of naming folders and subfolders. May make the CMD line easier. 
+
+**Link(s) to work**: https://github.com/Maria-Midkiff/background-picker-HW.git
+
+**Next Actions**: Make changes to all of the other homework assignments and post in git hub. 
+
