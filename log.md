@@ -34,9 +34,10 @@
 
 ### Day 5: August 12, 2023
 
-**Today's Progress**: 
-**Thoughts**:  
+**Today's Progress**: Changed background color to have sounds on each color, uploade to Glitch.
+**Thoughts**:  Having glitch problems. The site works from my pc, viewing on chrome. It does not work on the preview screen in Glitch. 
 **Link(s) to work**
+**Next Actions**: See what is up with Glitch. 
 
 ### Day 6: August 13, 2023
 
