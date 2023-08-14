@@ -52,3 +52,12 @@
 
 **Next Actions**: Make changes to all of the other homework assignments and post in git hub. 
 
+### Day 7: August 14, 2023
+
+**Today's Progress**: Finished posting homework for Class 16. Updated portfolio site for photo and About Me. Added svg to page tab. 
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Review portfolio site and upload. 
