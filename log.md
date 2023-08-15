@@ -61,3 +61,13 @@
 **Link(s) to work**: 
 
 **Next Actions**: Review portfolio site and upload. 
+
+### Day 8: August 15, 2023
+
+**Today's Progress**: Portfolio site: &copy; on site pages, update social medial links, reivewed pages for consistency, reviewed forms
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Post portfolio site, blog a cheat sheet about how to post the sites
