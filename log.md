@@ -71,3 +71,13 @@
 **Link(s) to work**: 
 
 **Next Actions**: Post portfolio site, blog a cheat sheet about how to post the sites
+
+### Day 9: August 16, 2023
+
+**Today's Progress**: Fighting with Github the entire time. It was referencing the incorrect folder in gitbash. I had deleted a repository, but gitbash was directing to that deleted one. Learned how to see what it was currently referring to and redirecting it. Deployed the Sewing site, and upon reivew, immediately found a problem of course. The tab title needed changing. Tried to change just the index and got gitbash error. 
+
+**Thoughts**:  UUUurrrjjjjjj!!!!!!!!!!! Take a breath. Eat an early lunch. 
+
+**Link(s) to work**: 
+
+**Next Actions**: Deploy all sites to github, then connect to netlifly. Troubleshoot.
