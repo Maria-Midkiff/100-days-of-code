@@ -91,3 +91,13 @@
 **Link(s) to work**: 
 
 **Next Actions**: Finish the rest of the sites
+
+### Day 11: August 18, 2023
+
+**Today's Progress**: GitHub - Outdoor, pet grooming, restaurant, and portfolio sites all committed
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Practice JS and start that homework reading, create Anki cards, netlify all sites
