@@ -81,3 +81,13 @@
 **Link(s) to work**: 
 
 **Next Actions**: Deploy all sites to github, then connect to netlifly. Troubleshoot.
+
+### Day 10: August 17, 2023
+
+**Today's Progress**: GitHub - Bookkeeping site, sewing site verified, music site
+
+**Thoughts**:  Rewriting cheat sheet and will edit hashnode entry for both first commit and commits for sites alread uploaded
+
+**Link(s) to work**: 
+
+**Next Actions**: Finish the rest of the sites
