@@ -101,3 +101,14 @@
 **Link(s) to work**: 
 
 **Next Actions**: Practice JS and start that homework reading, create Anki cards, netlify all sites
+
+### Day 12: August 19, 2023
+
+**Today's Progress**: Got all 7 sites on netlify
+
+**Thoughts**:  It seems as if I'm getting more done since I have started these daily entries. 
+
+**Link(s) to work**: 
+
+**Next Actions**: update links on portfolio page
+
