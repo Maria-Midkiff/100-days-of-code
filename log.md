@@ -112,3 +112,14 @@
 
 **Next Actions**: update links on portfolio page
 
+
+### Day 13: August 20, 2023
+
+**Today's Progress**: Updated portfolio site with live links at netlify, practice JS
+
+**Thoughts**:  Now I know how gitbash, github, and netlify interact with each other to create and deploy a site live
+
+**Link(s) to work**: https://maria-midkiff.netlify.app/
+
+**Next Actions**: Read JS assignments and practice JS homework, send my live link to a few trusted peeps for their input. 
+
