@@ -123,3 +123,12 @@
 
 **Next Actions**: Read JS assignments and practice JS homework, send my live link to a few trusted peeps for their input. 
 
+### Day 14: August 21, 2023
+
+**Today's Progress**: Practice JS, reading the JS way and making Anki cards
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Repeat, and add portfolio site to accounts
