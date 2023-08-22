@@ -132,3 +132,13 @@
 **Link(s) to work**: 
 
 **Next Actions**: Repeat, and add portfolio site to accounts
+
+### Day 15: August 22, 2023
+
+**Today's Progress**: Practice JS, reading the JS way and making Anki cards
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Repeat, and add portfolio site to accounts
