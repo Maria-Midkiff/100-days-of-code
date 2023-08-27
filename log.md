@@ -173,3 +173,24 @@
 **Link(s) to work**: 
 
 **Next Actions**: Repeat, and add portfolio site to accounts and on all sites.
+
+
+### Day 19: August 26, 2023
+
+**Today's Progress**: The JS Way Add conditions
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Repeat, and add portfolio site to accounts and on all sites.
+
+### Day 20: August 27, 2023
+
+**Today's Progress**: The JS Way conditions and loops
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Repeat, and add portfolio site to accounts and on all sites.
