@@ -204,3 +204,14 @@
 **Link(s) to work**: 
 
 **Next Actions**: Repeat, and add portfolio site to accounts and on all sites.
+
+### Day 22: August 29, 2023
+
+**Today's Progress**: The JS Way Write Functions up through Anonymous Functions
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Repeat, and add portfolio site to accounts and on all sites.
+
