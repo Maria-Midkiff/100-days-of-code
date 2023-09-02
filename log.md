@@ -215,3 +215,46 @@
 
 **Next Actions**: Repeat, and add portfolio site to accounts and on all sites.
 
+# 100 Days Of Code - Log Reboot - take 2
+
+I had been out of town for three days and also got sick. So my coding chain was broken. So rebooting here.
+
+### Day 1: September 1, 2023
+
+**Today's Progress**: worked on Write Functions in the JS Way
+
+**Thoughts**:  Seems daunting. Keep going. Trough here. Working on picking up momentum again. 
+
+**Link(s) to work**: 
+
+**Next Actions**: Repeat, and add portfolio site to accounts and on all sites.
+
+### Day 2: September 2, 2023
+
+**Today's Progress**: Write Functions in JS Way, begin Eloquent JS
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Repeat, and add portfolio site to accounts and on all sites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
