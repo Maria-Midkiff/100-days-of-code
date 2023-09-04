@@ -251,8 +251,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Next Actions**: add portfolio site to accounts and on all sites, Chapter 2
 
 
+### Day 4: September 4, 2023
 
+**Today's Progress**: Eloquent JS Chapter 2, completed first exercise. 
 
+**Thoughts**:  Ugh, just ugh....
+
+**Link(s) to work**: 
+
+**Next Actions**: add portfolio site to accounts and on all sites, Chapter 2
 
 
 
