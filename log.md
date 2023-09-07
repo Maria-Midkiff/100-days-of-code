@@ -283,6 +283,16 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: add portfolio site to accounts and on all sites, Chapter 2, redo photo and repost everywhere
 
+### Day 7: September 7, 2023
+
+**Today's Progress**: Eloquent JS Chapter 3 Functions reading, examples
+
+**Thoughts**:  Ugh, just ugh....yep still
+
+**Link(s) to work**: 
+
+**Next Actions**: Codecademy Intro to JS
+
 
 
 
