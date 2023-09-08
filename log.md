@@ -294,6 +294,16 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Next Actions**: Codecademy Intro to JS
 
 
+### Day 8: September 8, 2023
+
+**Today's Progress**: Eloquent JS Chapter 3 Functions reading, examples
+
+**Thoughts**:  Ugh, just ugh....yep still
+
+**Link(s) to work**: 
+
+**Next Actions**: Codecademy Intro to JS
+
 
 
 
