@@ -327,6 +327,16 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Next Actions**: Codecademy Intro to JS continue
 
 
+### Day 11: September 11, 2023
+
+**Today's Progress**: Continue Codecademy Intro to JS
+
+**Thoughts**:  Let's do this!
+
+**Link(s) to work**: 
+
+**Next Actions**: Wash and repeat. 
+
 
 
 
