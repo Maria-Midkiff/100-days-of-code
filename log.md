@@ -391,3 +391,35 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Next Actions**: Wash and repeat. 
 
 
+### Day 17: September 17, 2023
+
+**Today's Progress**: Continue Codecademy Intro to JS, Quiz, articles
+
+**Thoughts**:  Looking better and better. 
+
+**Link(s) to work**: 
+
+**Next Actions**: Wash and repeat. 
+
+
+### Day 18: September 18, 2023
+
+**Today's Progress**: Continue Codecademy Intro to JS, Conditionals
+
+**Thoughts**:  Looking better and better. 
+
+**Link(s) to work**: 
+
+**Next Actions**: Wash and repeat. 
+
+
+### Day 19: September 19, 2023
+
+**Today's Progress**: Continue Codecademy Intro to JS, Conditionals, magic 8 ball
+
+**Thoughts**:  Looking better and better. 
+
+**Link(s) to work**: 
+
+**Next Actions**: Wash and repeat. 
+
