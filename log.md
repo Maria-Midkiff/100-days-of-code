@@ -444,3 +444,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Wash and repeat. 
 
+
+### Day 22: September 22, 2023
+
+**Today's Progress**: Continue Codecademy Intro to JS, Functions, Scope
+
+**Thoughts**:  Looking better and better. 
+
+**Link(s) to work**: 
+
+**Next Actions**: Wash and repeat. 
+
