@@ -465,3 +465,13 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Wash and repeat. 
+
+### Day 24 and 25: September 24 and 25, 2023
+
+**Today's Progress**: Git and Git Hub crash course, The Hacker's Diet (just had to)
+
+**Thoughts**:  Looking better and better. 
+
+**Link(s) to work**: 
+
+**Next Actions**: Wash and repeat. 
