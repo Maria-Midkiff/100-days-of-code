@@ -475,3 +475,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Wash and repeat. 
+
+
+### Day 26 and 27: September 26 and 27, 2023
+
+**Today's Progress**: Git from the Bottom Up
+
+**Thoughts**:  Reading.....
+
+**Link(s) to work**: 
+
+**Next Actions**: Wash and repeat. 
