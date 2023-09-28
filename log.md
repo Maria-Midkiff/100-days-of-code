@@ -486,3 +486,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Wash and repeat. 
+
+
+### Day 28: September 28, 2023
+
+**Today's Progress**: Prep proposal and contract for homework. 
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Class 16 video is next up!
