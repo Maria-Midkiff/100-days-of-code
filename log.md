@@ -509,3 +509,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Class 16 video is next up! post all homework
+
+
+### Day 30 and 31: September 30 and October 1, 2023
+
+**Today's Progress**: Updated twitter logo on 7 sites, changed existing repos, reviewed deploy from github to make sure live sites are updated too. Posted homework of the proposal and contract, and the portfolio site. 
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Class 16 video is next up! post all homework
