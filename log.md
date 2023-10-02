@@ -520,3 +520,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Class 16 video is next up! post all homework
+
+
+### Day 32: October 2, 2023
+
+**Today's Progress**: Beginning Class 16 Loops
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Continue
