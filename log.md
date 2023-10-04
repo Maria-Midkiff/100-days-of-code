@@ -543,3 +543,13 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Continue
 
+
+### Day 34: October 4, 2023
+
+**Today's Progress**: Continue Class 16 Loops, age-checker, variable-fun-time
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Continue
