@@ -553,3 +553,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Continue
+
+
+### Day 35: October 5, 2023
+
+**Today's Progress**: Continue Class 16 Loops, variable-fun-time, simple functions
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Continue
