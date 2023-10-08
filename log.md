@@ -575,3 +575,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Continue
+
+
+### Day 37, 38: October 7 and 8, 2023
+
+**Today's Progress**: Continue Class 16 Loops, bring-it-on and bring-it-on-again
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Practice
+
