@@ -598,7 +598,7 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Practice
 
-### Day 40 and 41: October 10, 11, 2023
+### Day 40 and 41: October 10 and 11, 2023
 
 **Today's Progress**: Begin Class 19 video, JS practice
 
