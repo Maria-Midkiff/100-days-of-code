@@ -608,3 +608,12 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Practice
 
+### Day 42: October 12, 2023
+
+**Today's Progress**:  JS practice
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Practice
