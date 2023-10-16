@@ -628,3 +628,13 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Practice
+
+### Day 44, 45, 46: October 14, 15, 16, 2023
+
+**Today's Progress**:  JS practice, and I figured out my pencil disappearing issue in github - for future issues. Yay!
+
+**Thoughts**:  Let's make this a great week. Loop.
+
+**Link(s) to work**: 
+
+**Next Actions**: Practice
