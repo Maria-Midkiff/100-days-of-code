@@ -649,3 +649,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Practice
+
+
+### Day 48, 49: October 18, 19, 2023
+
+**Today's Progress**:  JS practice, loops
+
+**Thoughts**:  Optimistic, but ugh....
+
+**Link(s) to work**: 
+
+**Next Actions**: Practice
