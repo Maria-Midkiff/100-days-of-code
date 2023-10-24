@@ -683,3 +683,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Practice, continue video (9 hours)
 
+
+### Day 53, 54: October 23 and 24, 2023
+
+**Today's Progress**:  JS practice, loops, Class 19
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Practice, continue video (9 hours)
+
