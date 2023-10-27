@@ -690,7 +690,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Thoughts**:  
 
+
+### Day 55, 56, 57: October 25, 26, 27, 2023
+
+**Today's Progress**:  Super Review - yes it's taking forever but helpful!!
+
+**Thoughts**:  
+
 **Link(s) to work**: 
 
-**Next Actions**: Practice, continue video (9 hours)
+**Next Actions**: Keep going. 
 
