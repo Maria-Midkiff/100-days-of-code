@@ -712,3 +712,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Keep going. 
 
+
+
+### Day 59, 60: October 29, 30, 2023
+
+**Today's Progress**:  Super Review - yes it's taking forever but helpful!!
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Keep going. 
+
