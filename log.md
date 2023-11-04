@@ -734,3 +734,27 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Keep going. 
+
+
+
+
+### Day 63, 64, 65: Nov 2, 3, 4 2023
+
+**Today's Progress**:  Super Review - yes it's taking forever but helpful!!
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Keep going. 
+
+
+
+
+
+
+
+
+
+
+
