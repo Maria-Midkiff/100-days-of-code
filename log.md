@@ -749,6 +749,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Next Actions**: Keep going. 
 
 
+### Day 66, 67: Nov 5, 6 2023
+
+**Today's Progress**:  Super Review - Finished! Begin Arrays
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Keep going. 
 
 
 
