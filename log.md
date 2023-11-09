@@ -761,6 +761,17 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 
 
+### Day 68, 69, 70: Nov 7, 8, 9, 2023
+
+**Today's Progress**:  Practice JS and pseudo code
+
+**Thoughts**:  Remember when we didn't know what the console was? Ha.
+
+**Link(s) to work**: 
+
+**Next Actions**: Keep going. 
+
+
 
 
 
