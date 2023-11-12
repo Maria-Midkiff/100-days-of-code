@@ -773,6 +773,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 
 
+### Day 71, 72, 73: Nov 10, 11, 12, 2023
+
+**Today's Progress**:  Arrays
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Must start networking - OMG. 
 
 
 
