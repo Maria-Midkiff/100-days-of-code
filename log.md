@@ -784,6 +784,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Next Actions**: Must start networking - OMG. 
 
 
+### Day 74: Nov 13, 2023
+
+**Today's Progress**:  Arrays, set up for codewars
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Must start networking - OMG. 
 
 
 
