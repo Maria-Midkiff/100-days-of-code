@@ -805,3 +805,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Must start networking - OMG. 
 
+
+### Day 78: Nov 17, 2023
+
+**Today's Progress**:  Hooray for arrays! Class 19 
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Must start networking - OMG. 
+
