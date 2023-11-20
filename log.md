@@ -816,3 +816,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Must start networking - OMG. 
 
+
+
+### Day 79, 80, 81: Nov 18, 19, 20, 2023
+
+**Today's Progress**:  Completed first codewars challenge, begain anki for codewars, begin reading thejsway
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Must start networking - OMG. 
+
