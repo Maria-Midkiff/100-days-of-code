@@ -839,3 +839,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Must start networking - OMG. 
 
+
+
+### Day 83: Nov 22, 2023
+
+**Today's Progress**:  the jsway and exercises, had to redo - jsfiddle was crashing, had to switch to glitch, and did one codewar challenge
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Redo problems 4, 5, and 6 and put in glitch to submit for homework 
