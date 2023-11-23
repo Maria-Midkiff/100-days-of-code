@@ -850,3 +850,24 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Redo problems 4, 5, and 6 and put in glitch to submit for homework 
+
+
+
+
+### Day 84: Nov 23, 2023
+
+**Today's Progress**:  the jsway and exercises, 1 codewar challenge
+
+**Thoughts**:  Happy Thanksgiving!
+
+**Link(s) to work**: 
+
+**Next Actions**: Redo problems 4, 5, and 6 and put in glitch to submit for homework 
+
+
+
+
+
+
+
+
