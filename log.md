@@ -867,6 +867,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 
 
+### Day 85, 86: Nov 24, 25, 2023
+
+**Today's Progress**:  1 code war challenge each day, reading thejsway objects
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Objects homework
 
 
 
