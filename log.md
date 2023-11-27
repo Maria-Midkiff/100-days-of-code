@@ -877,6 +877,16 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Objects homework
 
+### Day 87, 88: Nov 26, 27, 2023
+
+**Today's Progress**:  codewars: remove string spaces and counting sheep, thejsway objects
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Objects homework
+
 
 
 
