@@ -887,6 +887,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Objects homework
 
+### Day 89, 90: Nov 28, 29, 2023
 
+**Today's Progress**:  codewars: rock paper scissors, and double char, thejsway objects exercises
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+
+**Next Actions**: Objects homework
 
 
