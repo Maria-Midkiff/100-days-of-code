@@ -897,4 +897,12 @@ I had been out of town for three days and also got sick. So my coding chain was 
 
 **Next Actions**: Objects homework
 
+### Day 91: Nov 30, 2023
 
+**Today's Progress**:  codewars: count of positives/sum of negatives, thejsway objects modeling a dog and modeling a circle. 
+
+**Thoughts**:  Best day ever!!
+
+**Link(s) to work**: 
+
+**Next Actions**: Objects homework
