@@ -906,3 +906,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: Objects homework
+
+
+### Day 92: Dec 1, 2023
+
+**Today's Progress**:  codewars: sumarrays, thejsway finished homework and posted on glitch: circle, dog, account, character experience
+
+**Thoughts**:  Best day ever!!
+
+**Link(s) to work**: 
+
+**Next Actions**: https://javascript.info/array-methods
+
