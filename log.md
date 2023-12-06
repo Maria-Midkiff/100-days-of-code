@@ -928,3 +928,14 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: do exercises
+
+
+### Day 95, 96, 97: Dec 4, 5, 6, 2023
+
+**Today's Progress**:  https://javascript.info/array-methods moving through
+
+**Thoughts**:  Feel like I'm spinning my wheels, but onward. 
+
+**Link(s) to work**: 
+
+**Next Actions**: do exercises
