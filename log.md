@@ -949,3 +949,15 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: do exercises
+
+
+
+### Day 99: Dec 8, 2023
+
+**Today's Progress**: codewars Square(n) Sum, and a distracted day
+
+**Thoughts**:  Feel like I'm spinning my wheels, but onward. 
+
+**Link(s) to work**: 
+
+**Next Actions**: do exercises
