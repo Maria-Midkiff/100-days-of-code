@@ -961,3 +961,18 @@ I had been out of town for three days and also got sick. So my coding chain was 
 **Link(s) to work**: 
 
 **Next Actions**: do exercises
+
+
+### Day 100: Dec 8, 2023
+
+**Today's Progress**: codewars convert a string to a number
+
+**Thoughts**:  Feel like I'm spinning my wheels, but onward. Still. No party. Keep going. ugh.
+
+**Link(s) to work**: 
+
+**Next Actions**: do exercises
+
+
+
+
